@@ -1,5 +1,5 @@
 {
-    "name": "leanphp/phpspec-code-coverage",
+    "name": "hanken/phpspec-code-coverage",
     "description": "Generate Code Coverage reports for PhpSpec tests",
     "type": "library",
     "keywords": [
@@ -16,6 +16,9 @@
         },
         {
             "name": "Henrik Bjornskov"
+        },
+          {
+            "name": "Franco Fallica"
         }
     ],
     "support": {
